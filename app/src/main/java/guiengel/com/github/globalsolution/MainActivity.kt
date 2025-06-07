@@ -1,5 +1,8 @@
 package guiengel.com.github.globalsolution
 
+//Guilherme Luis Engel RM-87438
+// Gabriel Dias Santiago RM-551406
+
 import EventoAdapter
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
